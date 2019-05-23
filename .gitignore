@@ -1,0 +1,6 @@
+swagger-tables/src/main/resources/application.properties
+.idea
+swagger-tables/.idea
+swagger-tables/target
+swagger-tables/.project
+swagger-tables/swagger-tables.iml
